@@ -1,7 +1,4 @@
-import Image from 'next/image'
 import React from 'react'
-import { AiTwotoneThunderbolt } from 'react-icons/ai'
-import ContactsHeader from './ContactsHeader'
 import TopHeader from './TopHeader'
 
 const Header = () => {

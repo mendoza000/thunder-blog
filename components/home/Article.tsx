@@ -11,6 +11,7 @@ const Article = (props: any) => {
           src={'/code.png'}
           width={70}
           height={70}
+          alt={"Article img"}
         />
         <div>
           <h4 className='text-white text-xl'>
